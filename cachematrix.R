@@ -1,7 +1,4 @@
-## The following functions work together to create a square invertible matrix
-## and make the inverse of the matrix available in the cache environment
-##
-## Sample run-time example included results
+
 ## > source("cachematrix.R")    load R program
 ## > a <- makeCacheMatrix()     create functions
 ## > a$set(matrix(1:4, 2, 2))   create matrix in working environment
