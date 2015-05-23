@@ -17,7 +17,6 @@
 
 
 ## makeCacheMatrix creates and returns a list of functions
-## used by cacheSolve to get or set the inverted matrix in cache
 makeCacheMatrix <- function(x = matrix()) {
         # stores the cached value
         # initialize to NULL
